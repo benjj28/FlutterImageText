@@ -63,7 +63,7 @@ class MyHomePage extends StatelessWidget {
                 ),
                 const SizedBox(height: 20),
                 const Text (
-                  'As Above So Below',
+                  'The Substance',
                   style: TextStyle(fontSize: 30),
                 ),
 
@@ -111,3 +111,5 @@ home: const MyHomePage() - Sets the home screen to an instance of the homepage w
 
 
  */
+
+
